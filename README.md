@@ -21,11 +21,12 @@
 <a href="https://www.linkedin.com/in/ssbanerjee461/"><img src="https://img.shields.io/badge/-Shubha_Sankar_Banerjee-blue?logo=linkedin&style=flat-square"></a>
 <a href="mailto:shubha.stats@gmail.com"><img src="https://img.shields.io/badge/-shubha.stats@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://twitter.com/ssbanerjee461"><img src="https://img.shields.io/badge/-@ssbanerjee461-blue?logo=twitter&style=flat-square"/></a>
+<a href="https://www.quora.com/profile/Shubha-Sankar-Banerjee/"><img src="https://img.shields.io/badge/-Shubha_Sankat_Banerjee-red?logo=quora&style=flat-square"/></a>
 </p>
 -----<br>
 
 Credits: [Shubha Sankar Banerjee](https://github.com/shubha3)<br>
-Last Edited on: 11/07/2021<br>
+Last Edited on: 16/07/2021<br>
 <a href="https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge"> </a>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge)
 <!---
