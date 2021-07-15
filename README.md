@@ -1,10 +1,10 @@
 ## Hello!
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 👋 Hi, I’m **Shubha Sankar Banerjee** [@shubha3](https://github.com/shubha3)<br>
+
+- 👋 Hi, I’m <b>Shubha Sankar Banerjee</b>    [@shubha3](https://github.com/shubha3)<br>
 - 👀 I’m interested in Bayesian Analysis, Statistical modelling and Inference<br>
 - 🌱 I’m currently pursuing M.Sc. in Statistics at Indian Institute of Technology Kanpur<br>
 - 📫 You can reach me at Linkedin- [Shubha Sankar Banerjee](www.linkedin.com/in/ssbanerjee461)<br>
-
 ## Education 📖
 - Holy Child School, Jalpaiguri *(2004-17)*
   - ICSE *(2015)*
@@ -23,9 +23,10 @@
 <a href="https://twitter.com/ssbanerjee461"><img src="https://img.shields.io/badge/-@ssbanerjee461-blue?logo=twitter&style=flat-square"/></a>
 </p>
 -----<br>
-Credits: [Shubha Sankar Banerjee](https://github.com/shubha3)
 
+Credits: [Shubha Sankar Banerjee](https://github.com/shubha3)<br>
 Last Edited on: 11/07/2021<br>
+<a href="https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge"> </a>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge)
 <!---
 shubha3/shubha3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
