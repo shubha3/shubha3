@@ -27,7 +27,11 @@
 
 Credits: [Shubha Sankar Banerjee](https://github.com/shubha3)<br>
 Last Edited on: 16/07/2021<br>
-<a href="https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge"> </a>
+
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge)
+
+<!-- <a href="https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge"> </a>-->
 <!--
 <br>
 <p align="center">
@@ -35,7 +39,7 @@ Last Edited on: 16/07/2021<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubha3&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge)
+
 <!---
 shubha3/shubha3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
