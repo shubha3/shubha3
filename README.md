@@ -26,10 +26,11 @@
 -----<br>
 
 Credits: [Shubha Sankar Banerjee](https://github.com/shubha3)<br>
-Last Edited on: 16/07/2021<br>
+Last Edited on: 16/07/2021
 
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=shubha3&repo=github-visitors-badge&countColorcountColor&countColor=%237B2E7A)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge)
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge)-->
 
 <!-- <a href="https://visitor-badge.glitch.me/badge?page_id=shubha3.visitor-badge"> </a>-->
 <!--
