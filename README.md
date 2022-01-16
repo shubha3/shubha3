@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👋 Hi, I’m <b>Shubha Sankar Banerjee</b>    [@shubha3](https://github.com/shubha3)<br>
-- 👀 I’m interested in Bayesian Analysis, Statistical modelling and Inference<br>
+- 👀 My research interests are in Methodological Statistics, Time Series and Bayesian Analysis.<br>
 - 🌱 I’m currently pursuing M.Sc. in Statistics at Indian Institute of Technology Kanpur<br>
 - 📫 You can reach me at Linkedin- [Shubha Sankar Banerjee](www.linkedin.com/in/ssbanerjee461)<br>
 ## Education 📖
