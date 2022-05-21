@@ -1,9 +1,8 @@
 ## Hello!
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👋 Hi, I’m <b>Shubha Sankar Banerjee</b>    [@shubha3](https://github.com/shubha3)<br>
-- 👀 My research interests are in Methodological Statistics, Time Series and Bayesian Analysis.<br>
-- 🌱 I’m currently pursuing M.Sc. in Statistics at Indian Institute of Technology Kanpur<br>
+- 👀 You can find more about me at my [personal webpage](https://shubha3.github.io/).<br>
+- 🌱 I’m an incoming PhD student at University of Pittsburgh, PA, US.<br>
 - 📫 You can reach me at Linkedin- [Shubha Sankar Banerjee](www.linkedin.com/in/ssbanerjee461)<br>
 ## Education 📖
 - Holy Child School, Jalpaiguri *(2004-17)*
@@ -11,8 +10,10 @@
   - ISC *(2017)*
 - St. Xavier's College (Autonomous), Kolkata *(2017-20)*
   - Bachelor of Science in Statistics
-- Indian Institute of Technology Kanpur *(2020-ongoing) [Expected 2022]*
+- Indian Institute of Technology Kanpur *(2020-22)*
   - Master of Science in Statistics
+- University of Pittsburgh *[Expected 2027]*
+  - PhD in Statistics
 
 ## Connect with me :smiley:
 
@@ -26,7 +27,7 @@
 -----<br>
 
 Credits: [Shubha Sankar Banerjee](https://github.com/shubha3)<br>
-Last Edited on: 16/07/2021
+Last Edited on: 21/05/2022
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=shubha3&repo=github-visitors-badge&countColorcountColor&countColor=%237B2E7A)
 
