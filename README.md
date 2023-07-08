@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m <b>Shubha Sankar Banerjee</b>    [@shubha3](https://github.com/shubha3)<br>
 - 👀 You can find more about me at my [personal webpage](https://shubha3.github.io/).<br>
-- 🌱 I’m an incoming PhD student at University of Pittsburgh, PA, US.<br>
+- 🌱 I’m a PhD student at University of Pittsburgh, PA, US.<br>
 - 📫 You can reach me at Linkedin- [Shubha Sankar Banerjee](www.linkedin.com/in/ssbanerjee461)<br>
 ## Education 📖
 - Holy Child School, Jalpaiguri *(2004-17)*
